@@ -7,7 +7,7 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open juve.html",
+            "name": "Open index.html",
             "file": "c:\\Users\\Dell\\Desktop\\juve\\juve.html"
         }
     ]
